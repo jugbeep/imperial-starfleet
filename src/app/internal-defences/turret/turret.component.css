@@ -1,0 +1,6 @@
+img {
+	display: flex;
+	height: 200px;
+	float: left;
+	flex-direction: row;
+}
